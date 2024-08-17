@@ -6,7 +6,8 @@
   <img src="powered-by-vercel.svg" alt="vercel logo" width="200" />
 </a>
 
-> **Note**: This is an important note or warning.
 
-> [!NOTE]\
-> Top Languages does not indicate the user's skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. Caching helps reduce API calls and manage rate limits effectively.
+<blockquote>
+<p><span class="color-fg-attention"><svg>...</svg>Warning</span><br>
+This is a warning</p>
+</blockquote>
