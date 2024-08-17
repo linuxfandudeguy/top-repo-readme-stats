@@ -8,4 +8,4 @@
 
 </div>
 
-  <img src="alert.svg" alt="icon" width="200" />
+  <img src="alert.svg" alt="icon" width="10" />
