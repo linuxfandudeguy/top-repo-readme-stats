@@ -6,4 +6,6 @@
   <img src="powered-by-vercel.svg" alt="vercel logo" width="200" />
 </a>
 
-<%= render(Primer::Beta::Octicon.new(:"alert")) %>
+</div>
+
+  <img src="alert.svg" alt="icon" width="200" />
