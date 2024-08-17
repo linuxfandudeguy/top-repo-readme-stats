@@ -8,4 +8,5 @@
 
 </div>
 
-  <img src="alert.svg" alt="icon" width="20" />
+  > <img src="alert.svg" alt="icon" width="20" /> **alert**:
+  > This API uses caching by using **`node-cache`** in order to prevent GitHub API limits, meaning the statistics might not update in real time.
