@@ -24,3 +24,11 @@ To put this in your profile README file, make sure that you have already created
 ```
 
 Replace `your_github_username` with your actual GitHub username.
+
+<details>
+<summary>:eyes: Show example</summary>
+
+![GitHub popular repo](https://popularrepostats.vercel.app/popular-repos?username=linuxfandudeguy)
+![GitHub popular repo 2.0 octocat](https://popularrepostats.vercel.app/popular-repos?username=octocat)
+
+</details>
