@@ -7,7 +7,10 @@
 </a>
 
 
-<blockquote>
-<p><span class="color-fg-attention"><svg>...</svg>Warning</span><br>
-This is a warning</p>
-</blockquote>
+:::note
+This is a note
+:::
+
+:::warning
+This is a warning
+:::
