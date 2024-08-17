@@ -12,3 +12,5 @@
   > This API uses caching by using **`node-cache`** in order to prevent GitHub API limits, meaning the statistics might not update in real time.
 
 This project was heavily influenced by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats/tree/master) and has its design taken from it.
+
+Credits to [anuraghazra](https://github.com/anuraghazra) for design inspiration and inspiration in general.
