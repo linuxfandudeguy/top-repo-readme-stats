@@ -6,5 +6,5 @@
   <img src="powered-by-vercel.svg" alt="vercel logo" width="200" />
 </a>
 
-> [!IMPORTANT]  
+>  <img src="alert.svg" alt="alert" width="200" />  **IMPORTANT**
 > Crucial information necessary for users to succeed.
