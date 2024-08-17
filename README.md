@@ -7,5 +7,5 @@
 </a>
 
 
-> [!NOTE]\
+> [!NOTE]
 > Caching is used to store data temporarily to improve performance and reduce API usage. In this project, caching helps avoid hitting GitHub API rate limits by storing and reusing the results of repository queries. This means that subsequent requests for the same data will be served faster and will not consume additional API quota, but it may mean the data isn't updated in real-time.
