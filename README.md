@@ -28,8 +28,8 @@ Replace `your_github_username` with your actual GitHub username.
 <details>
 <summary>:eyes: <strong>Show examples</strong></summary>
 
-![GitHub popular repo](https://popularrepostats.vercel.app/popular-repos?username=linuxfandudeguy)
+![GitHub popular repo linuxfandudeguy](https://popularrepostats.vercel.app/popular-repos?username=linuxfandudeguy)
 ![GitHub popular repo 2.0 octocat](https://popularrepostats.vercel.app/popular-repos?username=octocat)
-![GitHub popular repo 2.0 octocat](https://popularrepostats.vercel.app/popular-repos?username=tandpfun)
-![GitHub popular repo 2.0 octocat](https://popularrepostats.vercel.app/popular-repos?username=github)
+![GitHub popular repo 3.0 tandpfun](https://popularrepostats.vercel.app/popular-repos?username=tandpfun)
+![GitHub popular repo 4.0 github](https://popularrepostats.vercel.app/popular-repos?username=github)
 </details>
