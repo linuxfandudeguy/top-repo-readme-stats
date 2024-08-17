@@ -14,3 +14,11 @@
 This project was heavily influenced by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats/tree/master) and has its design taken from it.
 
 Credits to [anuraghazra](https://github.com/anuraghazra) for design inspiration and inspiration in general.
+
+## Usage
+
+To put this in your profile readme file just do this:
+
+```html
+  <img src="https://popularrepostats.vercel.app/popular-repos?username=linuxfandudeguy" alt="most popular repositories"/>
+```
