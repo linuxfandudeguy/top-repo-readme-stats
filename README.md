@@ -30,5 +30,6 @@ Replace `your_github_username` with your actual GitHub username.
 
 ![GitHub popular repo](https://popularrepostats.vercel.app/popular-repos?username=linuxfandudeguy)
 ![GitHub popular repo 2.0 octocat](https://popularrepostats.vercel.app/popular-repos?username=octocat)
-
+![GitHub popular repo 2.0 octocat](https://popularrepostats.vercel.app/popular-repos?username=tandpfun)
+![GitHub popular repo 2.0 octocat](https://popularrepostats.vercel.app/popular-repos?username=github)
 </details>
