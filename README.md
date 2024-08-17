@@ -17,8 +17,10 @@ Credits to [anuraghazra](https://github.com/anuraghazra) for design inspiration 
 
 ## Usage
 
-To put this in your profile readme file just do this:
+To put this in your profile README file, make sure that you have already created it first before implementing it. If you have done that, then put this in whatever section of your README file you want to put it in like this:
 
 ```html
-  <img src="https://popularrepostats.vercel.app/popular-repos?username=linuxfandudeguy" alt="most popular repositories"/>
+  <img src="https://popularrepostats.vercel.app/popular-repos?username=your_github_username" alt="most popular repositories"/>
 ```
+
+Replace `your_github_username` with your actual GitHub username.
