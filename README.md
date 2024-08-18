@@ -1,4 +1,5 @@
 
+
 <div align=center>
   <img src="https://cdn.icon-icons.com/icons2/903/PNG/512/stats_icon-icons.com_69449.png" alt="logo"/>
 
@@ -54,19 +55,41 @@ To set up this project locally, follow these steps:
 
 ## Deployment
 
-To deploy this application, you can use Vercel or any other hosting platform that supports Node.js. Here's a quick guide for deploying on Vercel:
+To deploy this application using Vercel, you should use the Vercel CLI and ensure that you have a proper `vercel.json` configuration file. Here's a guide for deploying on Vercel:
 
 1. **Login to Vercel**:
     - Visit [vercel.com](https://vercel.com) and sign in with your GitHub account.
 
-2. **Import the project**:
-    - Import your `top-repo-readme-stats` repository from GitHub into Vercel.
+2. **Install the Vercel CLI**:
+    - If you haven't already installed the Vercel CLI, do so by running:
+    ```bash
+    npm install -g vercel
+    ```
 
-3. **Configure environment variables**:
-    - Set your GitHub API key as an environment variable named `GITHUB_API_KEY` in the Vercel dashboard.
+3. **Configure `vercel.json`**:
+    - Create a `vercel.json` file in the root directory of your project to specify your deployment settings. Here’s an example configuration:
+    ```json
+    {
+      "version": 2,
+      "builds": [
+        {
+          "src": "index.js",
+          "use": "@vercel/node"
+        }
+      ],
+      "env": {
+        "GITHUB_API_KEY": "@github_api_key"
+      }
+    }
+    ```
+    - Replace `"@github_api_key"` with your actual GitHub API Key in the Vercel dashboard.
 
-4. **Deploy**:
-    - Click "Deploy" and Vercel will build and host your project.
+4. **Deploy the project**:
+    - To deploy your project, use the following command:
+    ```bash
+    vercel
+    ```
+    - Follow the prompts to complete the deployment process.
 
 ## Usage
 
@@ -116,9 +139,5 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 
 ## License
 
-This project is licensed under the MIT License. 
-
-## Additional Note 
-
-If you plan to republish or fork this repository, you must adhere to the terms of the MIT license. Additionally, ensure that `.env` is included in your `.gitignore` file to avoid exposing sensitive information.
+This project is licensed under the MIT License. If you plan to republish or fork this repository, you must adhere to the terms of the MIT license. Additionally, ensure that `.env` is included in your `.gitignore` file to avoid exposing sensitive information.
 
