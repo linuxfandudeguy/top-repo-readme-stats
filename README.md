@@ -33,3 +33,7 @@ Replace `your_github_username` with your actual GitHub username.
 ![GitHub popular repo 3.0 tandpfun](https://popularrepostats.vercel.app/popular-repos?username=tandpfun)
 ![GitHub popular repo 4.0 github](https://popularrepostats.vercel.app/popular-repos?username=github)
 </details>
+
+This does not have a lot of features therefore this file won't be long.
+
+This is built using express.js and node.js.
