@@ -31,7 +31,7 @@ To set up this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your_github_username/top-repo-readme-stats.git
+    git clone https://github.com/linuxfandudeguy/top-repo-readme-stats.git
     cd top-repo-readme-stats
     ```
 
@@ -101,7 +101,6 @@ To use this in your profile README file, ensure you’ve already created your RE
 <img src="https://popularrepostats.vercel.app/popular-repos?username=your_github_username" alt="most popular repositories"/>
 ```
 
-Replace `your_github_username` with your actual GitHub username.
 
 <details>
 <summary>:eyes: <strong>Show examples</strong></summary>
