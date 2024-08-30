@@ -8,7 +8,7 @@
   <img src="powered-by-vercel.svg" alt="vercel logo" width="200" />
 </a>
 
-[![Deploy](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2FRemiixInc%2Fscreenshot)
+[![Deploy](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Flinuxfandudeguy%2Ftop-repo-readme-stats%2F)
 
 </div>
 
